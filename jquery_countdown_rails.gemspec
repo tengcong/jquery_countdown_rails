@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
   spec.name          = "jquery_countdown_rails"
-  spec.version       = JqueryCountdownRails::VERSION
+  spec.version       = '0.1'
   spec.authors       = ["congteng"]
   spec.email         = ["congteng45@gmail.com"]
   spec.license       = "MIT"
