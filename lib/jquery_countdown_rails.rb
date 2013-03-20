@@ -1,6 +1,2 @@
-require "jquery_countdown_rails/version"
+require "jquery_countdown_rails/engine"
 
-module JqueryCountdownRails
-  class Engine < Rails::Engine
-  end
-end
